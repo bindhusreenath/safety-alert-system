@@ -1,0 +1,17 @@
+# Environment secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Flutter
+build/
+.dart_tool/
+
+# OS files
+.DS_Store
+Thumbs.db
